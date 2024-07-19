@@ -1,0 +1,19 @@
+create new folder
+
+/git init
+
+/git clone https://github.com/CallensJ/Adrar-tp1.git
+/cd /Adrar-tp1
+/git pull
+
+/(add .txt files)
+
+git add .
+git commit -m 'added txt files'
+git push
+
+10 / creation d'un txt dans la branche 
+
+11 / git pull
+
+12 / envoyer l'url
